@@ -50,7 +50,7 @@ This interactive map uses both mouse and keyboard inputs.
 
 ## Authors
 
-* **Bhavin Jethra** - [Github] (https://github.com/bhavinjethra)
+* **Bhavin Jethra** - [Github](https://github.com/bhavinjethra)
 * **Anshuman Bora** - [anshumanbora.github.io](https://anshumanbora.github.io)
 * **Deepak Surana** - [Github](https://github.com/deepak18)  
 
